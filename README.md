@@ -9,9 +9,24 @@ You can view the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIj
 
 Our stakeholders wanted us to analyze Telangana's growth among different sectors quantitatively and provide useful insights to the Telangana government. This would help them to make data-informed decisions that would further support the growth of the state.
 
-### Tools Used
+### Tech Stack
 - **Excel**: To prepare the data for analysis, we used Excel to clean and organize it.
 - **Power BI**: Using the powerful data analysis tool Power BI, we were able to quantitatively analyze Telangana's growth among different sectors and provide useful insights to the Telangana government.
+
+## Workflow Steps
+
+1. **Data Load**: Load data into Power BI and perform initial validation.
+2. **Data Transformation**: Transform data in Power Query.
+3. **Data Modeling**: Created calculated columns and measures using DAX. Unpivot the Vehicle type and Vehicle Sales in Transportation Data.
+4. **Dashboard Views**:
+    - e-Stamp View
+    - Transposrtation View
+    - TS-iPass Insights
+5. **Dashboard Design**:
+    - Page navigation with slicer panel
+    - Buttons for navigation
+    - KPIs
+6. **Deployment**: Deploy the report using Power BI Service.
 
 ### Objective
 1. Explore Stamp Registration, Transportation, and TS-iPASS datasets. Understand their attributes, categories, and time period.
@@ -19,7 +34,7 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
 3. Identify growth opportunities and areas needing attention.
 4. Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
 
-### Key Measures
+### Key Metrics
 - **Total Document Registered**: 5M
 - **E-Challan Registered**: 3M
 - **Total Districts**: 33
@@ -32,7 +47,8 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
 - **Total Employees**: 675K
 - **Total Investment in Cr**: 99.13K
 
-### Top Insight
+### Recommendations:
+
 - After the implementation of e-stamp, it can be clearly seen that the number of e-stamp has increased. The number of document registrations has also increased, but not as significantly as the number of e-Stamp challans.
 - These are the top 4 districts where maximum revenue is generated, maximum vehicle sales, maximum employment generated, and maximum investment has taken place:
   - Rangareddy
@@ -45,13 +61,3 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
 - In general, districts with higher vehicle sales also have higher investments and higher stamp revenue. However, there are some exceptions to this rule. For example, Hyderabad is a district with high vehicle sales but low investment.
 
 
-### Recommendations
-- After the implementation of e-stamp, it can be clearly seen that the number of e-stamp has increased. But the government should focus more on e-STAMP challan so that the number of document registered challans can not be reduced. Because they are still using more than people document registration.
-- Telangana is a large state with 33 districts, of which 10 are rural districts. The population living in these districts accounts for about 40% of the state's total population. To promote development in rural districts, the Telangana government should take the following measures:
-  - **Improve infrastructure**: Rural districts lack roads, electricity, water, and other basic infrastructure. Improving this infrastructure will boost development in rural areas.
-  - **Improve education and healthcare**: The quality of education and healthcare in rural districts needs to be improved. This will improve the standard of living of people in rural areas.
-  - **Create employment opportunities**: There is a lack of employment opportunities in rural districts. The government should create employment opportunities in the agriculture, industry, and service sectors in rural areas.
-  - **Implement rural development programs**: The government should implement various programs for rural development, such as the:
-    - Rural Development Scheme
-    - National Rural Employment Guarantee Scheme
-    - Pradhan Mantri Awas Yojana
