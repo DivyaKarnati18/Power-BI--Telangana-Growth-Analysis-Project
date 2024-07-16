@@ -48,7 +48,7 @@ You can view the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIj
 - **Total Employees**: 675K
 - **Total Investment in Cr**: 99.13K
 
-### Recommendations:
+### Top Insights:
 
 - After the implementation of e-stamp, it can be clearly seen that the number of e-stamp has increased. The number of document registrations has also increased, but not as significantly as the number of e-Stamp challans.
 - These are the top 4 districts where maximum revenue is generated, maximum vehicle sales, maximum employment generated, and maximum investment has taken place:
