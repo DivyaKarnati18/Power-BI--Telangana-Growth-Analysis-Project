@@ -2,12 +2,13 @@
 
 Telangana is one of the fastest-growing states in India, and it has an open data policy. This means that all of the state's data is published online, making it easy to analyze and identify trends.
 
-You can view the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxNGVkZTYtZGMzMy00OGEzLWFkZmUtNjdhZGRlMTAzNzc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
-
 
 ## Project Overview
 
 Our stakeholders wanted us to analyze Telangana's growth among different sectors quantitatively and provide useful insights to the Telangana government. This would help them to make data-informed decisions that would further support the growth of the state.
+
+You can view the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxNGVkZTYtZGMzMy00OGEzLWFkZmUtNjdhZGRlMTAzNzc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
 
 ### Tech Stack
 - **Excel**: To prepare the data for analysis, we used Excel to clean and organize it.
