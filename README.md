@@ -11,8 +11,8 @@ You can view the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIj
 
 
 ### Tech Stack
-- **Excel**: To prepare the data for analysis, we used Excel to clean and organize it.
-- **Power BI**: Using the powerful data analysis tool Power BI, we were able to quantitatively analyze Telangana's growth among different sectors and provide useful insights to the Telangana government.
+- **Excel**
+- **Power BI**
 
 ## Workflow Steps
 
